@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">I am a final-year B.Tech Information Technology student and a Python Backend Developer with experience in building REST APIs and AI-driven backend systems. I enjoy working with FastAPI, ASP.NET, and AI agent workflows using LangGraph. I have hands-on experience integrating databases and developing full-stack applications with clean and scalable architectures.</p>
+<p align="left">I am a B.Tech Information Technology Graduate and a Python Backend Developer with experience in building REST APIs and AI-driven backend systems. I enjoy working with FastAPI, ASP.NET, and AI agent workflows using LangGraph. I have hands-on experience integrating databases and developing full-stack applications with clean and scalable architectures.</p>
 
 ###
 
